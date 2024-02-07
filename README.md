@@ -12,7 +12,7 @@ This project was provided to test the skills and creativity of members against w
   2. REHAN SHAIKH
   3. ANANYA JUNEJA
   4. SURAJ PATEL
-  6. NAVEEN MALIK
+  5. NAVEEN MALIK
 ```
 
 
@@ -71,11 +71,11 @@ Follow these simple steps to set up the TEDTALKS on your local machine:
 
   **1. Clone The Repository:**
 ```bash
-  git clone https://github.com/your-username/tedtalks-clone.git
+  git clone https://github.com/ANIKET9411/TEDTALKS-Project
 ```
 **2. Navigate to the Project Directory:**
 ```bash
-  cd tedtalks-clone
+  cd TEDTALKS-Project
 ```
 **3. Open in Web Browser:**
 ```bash
